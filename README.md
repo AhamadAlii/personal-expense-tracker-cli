@@ -150,5 +150,5 @@ personal-expense-tracker-cli/
 - No external packages required.
 - You can safely version `expenses.db` (or add it to `.gitignore` if you prefer).
 - Extend easily into a REST API or simple UI later using the same database.
-# personal-expense-tracker-cli
+
 
